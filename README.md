@@ -19,7 +19,7 @@
 - Skill Count
   - Skill Count = COUNT('Job Skills'[Job Skills])
 
-# Dashboards
+# Dashboards:
 - Home
 ![bcl1jlp0 op1](https://github.com/MarcvWaes/Job-Market-Analysis/assets/120553175/cf25ecf1-e799-4c9f-8c3d-832c3071c54d)
 
